@@ -4,12 +4,12 @@
 
 ### Project 1 
 
-[Covid-19 Dashboard](/sample_page)
+[Covid-19 Dashboard]
 <img src="Covid19.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Covid-19 Dashboard]
+<img src="Covid19.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
